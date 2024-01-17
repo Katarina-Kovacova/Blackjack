@@ -13,7 +13,7 @@ def is_black_jack(list_of_cards):
 
 
 while True:
-    play_game = input("Do you want to play a game of Black Jack? 'Y' or 'n'?")
+    play_game = input("Do you want to play a game of Blackjack? 'y' or 'n'? ")
     print()
     
     if play_game == 'y':
