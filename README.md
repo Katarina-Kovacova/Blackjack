@@ -1,4 +1,4 @@
-Black-Jack
+Blackjack
 The application allows user to play the popular card game against computer.
 
 The deck is unlimited in size. 
